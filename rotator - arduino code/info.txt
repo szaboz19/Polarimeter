@@ -1,0 +1,3 @@
+here is the modified arduino code of the rotator and a drawing of the connections
+my stepper motor driver is a DRV8825
+you can use other drivers too with the accelstepper library
